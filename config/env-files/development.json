@@ -1,0 +1,8 @@
+{
+    "port":3004,
+    "envName":"Development",
+    "dbConectionString":"mongodb://localhost:27017/userMS",
+    "secretKey":"fdjkljldfjljfkdjs",
+    "EMAIL":"mukul2299pandit@gmail.com",
+    "PASSWORD":"eyiompaqvpgeueus"
+}
